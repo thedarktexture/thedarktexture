@@ -37,7 +37,6 @@
 
 * 📊 Sales Dashboard using Power BI
 * 🏥 Hospital Management Database (SQL)
-* 🌐 Personal Portfolio Website
 
 ---
 
@@ -52,8 +51,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/tecashish/)
-* 💻 GitHub: (https://github.com/thedarktexture)
+* 💼 LinkedIn: https://www.linkedin.com/in/tecashish/
+* 💻 GitHub: https://github.com/thedarktexture
 
 ---
 
